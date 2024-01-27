@@ -7,3 +7,5 @@ An elytra/chestplate swapping keybind. It prioritises items with a larger durabi
 A quick totem equipping keybind. Will equip a totem of undying into your offhand when pressed. Default keybind 'X'.
 
 https://modrinth.com/mod/aka-hotkey-manager
+#**For Server Owners or Admins :-
+**Note:- This Mod is not a Hack And You can also check the source code + Dont Think its auto totem or a hack cause its only Setting hotkey for specific item not Automating Things.
