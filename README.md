@@ -3,4 +3,4 @@ An elytra/chestplate swapping keybind. It prioritises items with a larger durabi
 
 A quick totem equipping keybind. Will equip a totem of undying into your offhand when pressed. Default keybind 'X'.
 
-https://www.modrinth.com/mod/aka_hotkey_manager
+https://modrinth.com/mod/aka-hotkey-manager
